@@ -192,14 +192,9 @@
     <Content Include="Scripts\app\views\resources\Resources.html" />
     <Content Include="Scripts\app\views\shared\Error.html" />
     <Content Include="gulpfile.js" />
-    <Content Include="Scripts\libs\angular-1.2.16.js" />
-    <Content Include="Scripts\libs\angular-animate-1.2.16.js" />
     <Content Include="Scripts\libs\angular-animate.js" />
-    <Content Include="Scripts\libs\angular-mocks-1.2.16.js" />
     <Content Include="Scripts\libs\angular-mocks.js" />
-    <Content Include="Scripts\libs\angular-resource-1.2.16.js" />
     <Content Include="Scripts\libs\angular-resource.js" />
-    <Content Include="Scripts\libs\angular-route-1.2.16.js" />
     <Content Include="Scripts\libs\angular-route.js" />
     <Content Include="Scripts\libs\angular-ui\select2.js" />
     <Content Include="Scripts\libs\angular-ui\select2.min.js" />
@@ -208,10 +203,7 @@
     <Content Include="Scripts\libs\jasmine-2.0.0\console.js" />
     <Content Include="Scripts\libs\jasmine-2.0.0\jasmine-html.js" />
     <Content Include="Scripts\libs\jasmine-2.0.0\jasmine.js" />
-    <Content Include="Scripts\libs\jquery-1.9.1.js" />
-    <Content Include="Scripts\libs\jquery-1.9.1.min.js" />
     <Content Include="Scripts\libs\jquery-3.1.0.js" />
-    <Content Include="Scripts\libs\jquery-ui-1.10.3.min.js" />
     <Content Include="Scripts\libs\jquery-ui.js" />
     <Content Include="Scripts\libs\ng-table\ng-table.js" />
     <Content Include="Scripts\libs\select2\select2.js" />

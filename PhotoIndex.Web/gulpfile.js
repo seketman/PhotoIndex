@@ -88,8 +88,4 @@ gulp.task('tests', function () {
  */
 gulp.task('default', ['build']);
 
-//gulp.task('default', ['clean'], function () {
-//    gulp.start('build');
-//});
-
 //gulp.watch('./app/**/*.js', ['js']);
